@@ -1,0 +1,183 @@
+{
+  "main": {
+    "name": "Deepak Bhavsar",
+    "occupation": "Machine Learning and Data Science Enthusiast",
+    "description": "A Machine Learning Developer by Day and Freelancer by Night.",
+    "image": "IG_Deepak.jpg",
+    "bio": "I am a engineer with an entrepreneurial spirit and a passion for coding. I persued my first development internship to kick off my career. I was hired as a wordpress and Android developer by Getspace. Then I got an oppurtunity to work as a Machine Learning Intern in 1Rivet to kickoff my career in Machine Learning. Now, I am working towards Deep Learning while working as a freelancer.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "deepakbhavsar43@gmail.com",
+    "phone": "+91 9727681792, 8780314247",
+    "address": {
+      "street": "Parvatgam",
+      "city": "Surat",
+      "state": "Gujarat",
+      "zip": "395010"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1K9ZudJ7GqV3HEkSRzCeOKnQgfVFFEErY/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/deepakbhavsar43",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/salt_n_tequila/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/deepakbhavsar43/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/deepakbhavsar43",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "stackoverflow",
+        "url": "https://stackoverflow.com/users/8550613/deepak-bhavsar",
+        "className": "fa fa-stack-overflow"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education": [
+      {
+        "school": "Uka Tarsadiya University",
+        "degree": "Bachelor in Computer Engineering",
+        "graduated": "May 2020",
+        "description": "Here I took my Bachelors of Computer Engineering, It was here that I discovered my passion for Machine Learning and Data Science and found that I have a knack for understanding complex algorithms."
+      },
+      {
+        "school": "Gujarat Technological University",
+        "degree": "Diploma in Computer Engineering",
+        "graduated": "May 2015",
+        "description": "Here I took my Diploma in Computer Engineering and achieved a much more thorough education in the underlying theory, concepts. Here I developed my skill in programming languages like C and Java and also got some hands on experience of computer maintanence whil helping the computer tecnicians."
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "Machine Learning and Web Development.",
+        "years": "May 2020 - Present",
+        "description": "Working as a freelancer on ML and web development."
+      },
+      {
+        "company": "1Rivet",
+        "title": "Machine Learning Intern",
+        "years": "Dec 2019 - May 2020",
+        "description": "Learned Agile Methodology, Design Patterns, automation using python, ML Libraries and Algorithms and Completed project Sentiment Analysis."
+      },
+      {
+        "company": "Getspace",
+        "title": "WordPress and Android Development Intern.",
+        "years": "May 2019 - June 2020",
+        "description": "Learned website development in WordPress using plugins WooCommerce, WPBakery. Developed an Android app for websites using WebView and integrating AdMob."
+      },
+      {
+        "company": "Grofers",
+        "title": "Station Manager.",
+        "years": "Aug 2015 - Aug 2017",
+        "description": "As a station manager in Grofers by daily responsibility was directing, optimizing and coordinating full order cycle and goal setting, workflow, staffing,  and keep track of quality, delivery times and transport costs."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Android",
+        "level": "45%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "MySQL",
+        "level": "80%"
+      },
+      {
+        "name": "Selenium",
+        "level": "50%"
+      },
+      {
+        "name": "Agile Methodology",
+        "level": "55%"
+      }
+
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "SENTIMENT ANALYSIS",
+        "category": "Machine Learning(Python, keras, NLP, streamlit, NumPy)",
+        "image": "sentimentanalysis-ml.png",
+        "url": ""
+      },
+      {
+        "title": "Instagram Scrapper and Object Detection",
+        "category": "Python Automation and Computer Vision (YOLO, Python)",
+        "image": "ipod-ml.png",
+        "url": ""
+      },
+      {
+        "title": "COVID-19 FACE MASK DETECTION",
+        "category": "Deep Learning",
+        "image": "with-mask.png",
+        "url": ""
+      },
+      {
+        "title": "Robotic Arm",
+        "category": "Automation",
+        "image": "roboticarm-auto.jpg",
+        "url": ""
+      },
+      {
+        "title": "Buy with Coupon",
+        "category": "Android",
+        "image": "bwc-app.png",
+        "url": "https://play.google.com/store/apps/details?id=com.buywithcoupon.com&hl=en_IN"
+      },
+      {
+        "title": "Cholera Associates",
+        "category": "WordPress",
+        "image": "choleraassociate-site.png",
+        "url": "https://www.choleraassociates.com/"
+      },
+      {
+        "title": "Onlie Traning and Placement",
+        "category": "php",
+        "image": "training&placement-site.png",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Deepak's enthusiasm towards the profession is seen.. He worked well and has shown initiative when seeking out new skills and learning oppurtunities.",
+        "user": "Director, Getspace"
+      }
+    ]
+  }
+}
