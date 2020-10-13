@@ -1,4 +1,4 @@
-# Deepak Bhavsar Portfolio      
+# Deepak Bhavsar Portfolio      [![Netlify Status](https://api.netlify.com/api/v1/badges/a176b615-bab4-4d2d-b367-3d2408239f20/deploy-status)](https://app.netlify.com/sites/deepakbhavsar/deploys)
 
 ![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
