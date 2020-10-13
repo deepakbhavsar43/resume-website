@@ -4,7 +4,7 @@
     "occupation": "Machine Learning and Data Science Enthusiast",
     "description": "A Machine Learning Developer by Day and Freelancer by Night.",
     "image": "IG_Deepak.jpg",
-    "bio": "I am a engineer with an entrepreneurial spirit and a passion for coding. I persued my first development internship to kick off my career. I was hired as a wordpress and Android developer by Getspace. Then I got an oppurtunity to work as a Machine Learning Intern in 1Rivet to kickoff my career in Machine Learning. Now, I am working towards Deep Learning while working as a freelancer.",
+    "bio": "I am an engineer with an entrepreneurial spirit and a passion for coding. I pursued my first development internship to kick off my career. I was hired as a WordPress and Android developer by Getspace. Then I got an opportunity to work as a Machine Learning Intern in 1Rivet to kickoff my career in Machine Learning. Now, I am working towards Deep Learning while working as a freelancer.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "deepakbhavsar43@gmail.com",
     "phone": "+91 9727681792, 8780314247",
@@ -51,13 +51,13 @@
         "school": "Uka Tarsadia University",
         "degree": "Bachelor in Computer Engineering",
         "graduated": "May 2020",
-        "description": "Here I took my Bachelors of Computer Engineering, It was here that I discovered my passion for Machine Learning and Data Science and found that I have a knack for understanding complex algorithms."
+        "description": "Here I took my Bachelor of Computer Engineering, It was here that I discovered my passion for Machine Learning and Data Science and found that I have a knack for understanding complex algorithms."
       },
       {
         "school": "Gujarat Technological University",
         "degree": "Diploma in Computer Engineering",
         "graduated": "May 2015",
-        "description": "Here I took my Diploma in Computer Engineering and achieved a much more thorough education in the underlying theory, concepts. Here I developed my skill in programming languages like C and Java and also got some hands on experience of computer maintanence whil helping the computer tecnicians."
+        "description": "Here I took my Diploma in Computer Engineering and achieved a much more thorough education in the underlying theory, concepts. Here I developed my skill in programming languages like C and Java and also got some hands-on experience in computer maintenance while helping the computer technicians."
       }
     ],
     "work": [
@@ -175,7 +175,7 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Deepak's enthusiasm towards the profession is seen.. He worked well and has shown initiative when seeking out new skills and learning oppurtunities.",
+        "text": "Deepak's enthusiasm for the profession is seen. He worked well and has shown initiative when seeking out new skills and learning opportunities.",
         "user": "Director, Getspace"
       }
     ]
