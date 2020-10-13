@@ -1,7 +1,4 @@
-# Clever Programmer ReactJS Portfolio Template      
-
-## 👇 WATCH THIS FIRST 👇
-## https://tinyurl.com/customizeReactPortfolio
+# Deepak Bhavsar Portfolio      
 
 ![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
