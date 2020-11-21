@@ -41,11 +41,16 @@
         "name": "stackoverflow",
         "url": "https://stackoverflow.com/users/8550613/deepak-bhavsar",
         "className": "fa fa-stack-overflow"
+      },
+      {
+        "name": "google",
+        "url": "https://google.qwiklabs.com/public_profiles/36fe70ad-c29c-4ef3-bb0d-4afe625c8313",
+        "className": "fa fa-google"
       }
     ]
   },
   "resume": {
-    "skillmessage": "I am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "skillmessage": "I am always interested in playing around with new technologies  but these are the ones that have really won me over",
     "education": [
       {
         "school": "Uka Tarsadia University",
@@ -64,7 +69,7 @@
       {
         "company": "Freelancer",
         "title": "Machine Learning and Web Development.",
-        "years": "May 2020 - Present",
+        "years": "July 2020 - Present",
         "description": "Working as a freelancer on ML and web development."
       },
       {
@@ -100,14 +105,6 @@
         "level": "70%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "Android",
-        "level": "35%"
-      },
-      {
         "name": "MongoDB",
         "level": "70%"
       },
@@ -117,11 +114,11 @@
       },
       {
         "name": "Selenium",
-        "level": "50%"
+        "level": "60%"
       },
       {
         "name": "Agile Methodology",
-        "level": "55%"
+        "level": "60%"
       }
 
     ]
@@ -132,7 +129,7 @@
         "title": "SENTIMENT ANALYSIS",
         "category": "Machine Learning(Python, keras, NLP, streamlit, NumPy)",
         "image": "sentimentanalysis-ml.png",
-        "url": ""
+        "url": "https://sentiment-analysis-nltk.herokuapp.com/"
       },
       {
         "title": "Instagram Scrapper and Object Detection",
