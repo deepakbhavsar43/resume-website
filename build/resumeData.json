@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Deepak Bhavsar",
-    "occupation": "Machine Learning and Data Science Enthusiast",
+    "occupation": "Blockchain and Machine Learning Enthusiast",
     "description": "A Developer by Day and Tutor by Night",
     "image": "IG_Deepak.jpg",
-    "bio": "I am an engineer with an entrepreneurial spirit and a passion for coding. I pursued my first development internship to kick off my career as a WordPress and Android developer by Getspace. Then I got an opportunity to work as a Machine Learning Intern in 1Rivet to kickoff my career in Machine Learning. Now, I am working towards Deep Learning while working as a tutor.",
+    "bio": "I am an engineer with an entrepreneurial spirit and a passion for coding. I pursued my first development internship to kick off my career as a WordPress and Android developer by Getspace. Then I got an opportunity to work as a Machine Learning Intern in 1Rivet. Now, I am working as a Blochchain Developer.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "deepakbhavsar43@gmail.com",
     "phone": "+91 9727681792, 8780314247",
@@ -114,6 +114,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Blockchain based twitter like webapp prototype",
+        "category": "blockchain, ethereum",
+        "image": "",
+        "url": ""
+      },
       {
         "title": "SENTIMENT ANALYSIS",
         "category": "Machine Learning(Python, keras, NLP, streamlit, NumPy)",
