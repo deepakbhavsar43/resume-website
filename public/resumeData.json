@@ -7,12 +7,9 @@
     "bio": "I am an engineer with an entrepreneurial spirit and a passion for coding. I pursued my first development internship to kick off my career as a WordPress and Android developer by Getspace. Then I got an opportunity to work as a Machine Learning Intern in 1Rivet. Now, I am working as a Blochchain Developer.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "deepakbhavsar43@gmail.com",
-    "phone": "+91 9727681792, 8780314247",
     "address": {
-      "street": "Parvatgam",
       "city": "Surat",
-      "state": "Gujarat",
-      "zip": "395010"
+      "state": "Gujarat"
     },
     "website": "",
     "resumedownload": "https://drive.google.com/file/d/1yT46X1vUalPpMrnW9J4D4qGRqITnbU8h/view?usp=sharing",
@@ -61,6 +58,18 @@
       }
     ],
     "work": [
+      {
+        "company": "Lapits",
+        "title": "Solidity Developer",
+        "years": "Dec 2020 - present",
+        "description": "As a solodity developer I create smart contract as per business requirement for ethereum, binance, tron and polygon blockchain."
+      },
+      {
+        "company": "Rain Infotech",
+        "title": "Blockchain Developer",
+        "years": "Dec 2020 - Mar 2021",
+        "description": "I explored and learned about blockchain here. Learned core blockchain concepts, bitcoin blockchain, ethereum blockchain and solidity."
+      },
       {
         "company": "1Rivet",
         "title": "Machine Learning Intern",
@@ -148,12 +157,6 @@
         "category": "Android",
         "image": "bwc-app.png",
         "url": "https://play.google.com/store/apps/details?id=com.buywithcoupon.com&hl=en_IN"
-      },
-      {
-        "title": "Cholera Associates",
-        "category": "WordPress",
-        "image": "choleraassociate-site.png",
-        "url": "https://www.choleraassociates.com/"
       },
       {
         "title": "Onlie Traning and Placement",
