@@ -625,6 +625,10 @@ input[type="checkbox"] { display: inline; }
     margin: 0 auto;
 }
 
+.feature-item {
+   text-align: center;
+}
+
 /* removed gutters */
 .row.collapsed > .column,
 .row.collapsed > .columns,

@@ -61,7 +61,7 @@
       {
         "company": "Lapits",
         "title": "Solidity Developer",
-        "years": "Dec 2020 - present",
+        "years": "April 2021 - present",
         "description": "As a solodity developer I create smart contract as per business requirement for ethereum, binance, tron and polygon blockchain."
       },
       {
@@ -91,34 +91,25 @@
     ],
     "skills": [
       {
-        "name": "Python",
-        "level": "85%"
+        "name": "Blockchain",
+        "description":"A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.",
+        "image": "blockchain_color.png"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "description":"I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "image": "Git.png"
       },
       {
-        "name": "MongoDB",
-        "level": "67%"
+        "name": "Python",
+        "description":"A interpreted High-Level Language. Used python to build and train machine learning models.",
+        "image": "Python-logo.svg"
       },
       {
-        "name": "MySQL",
-        "level": "80%"
-      },
-      {
-        "name": "Solidity",
-        "level": "60%"
-      },
-      {
-        "name": "Truffle",
-        "level": "75%"
-      },
-      {
-        "name": "Agile Methodology",
-        "level": "60%"
+        "name": "Heroku",
+        "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image": "heroku.png"
       }
-
     ]
   },
   "portfolio": {
