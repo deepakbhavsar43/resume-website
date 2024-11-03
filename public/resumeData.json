@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Deepak Bhavsar",
-    "occupation": "Blockchain and Machine Learning Enthusiast",
+    "occupation": "Blockchain Engineer",
     "description": "A Developer by Day and Tutor by Night",
     "image": "IG_Deepak.jpg",
     "bio": "I am an engineer with an entrepreneurial spirit and a passion for coding. I pursued my first development internship to kick off my career as a WordPress and Android developer by Getspace. Then I got an opportunity to work as a Machine Learning Intern in 1Rivet. Now, I am working as a Blochchain Developer.",
@@ -59,22 +59,28 @@
     ],
     "work": [
       {
+        "company": "Zensar Technologies",
+        "title": "Software Engineer - Blockchain Expert",
+        "years": "June 2022 - present",
+        "description": "• Implemented HyperledgerFabric for credit card transaction settlement proof of concept, reducing settlement time by 99%.\n• Collaborated with team members to problem solve and optimize transaction settlement process.\n• Developed and tested solutions to ensure efficient and secure credit card transactions.\n• Utilized skills in HyperledgerFabric and problem-solving to drive successful project outcomes."
+      },
+      {
         "company": "Lapits",
         "title": "Solidity Developer",
-        "years": "April 2021 - present",
-        "description": "As a solodity developer I create smart contract as per business requirement for ethereum, binance, tron and polygon blockchain."
+        "years": "April 2021 - June 2022",
+        "description": "• Collaborated with clients in the requirements design phase for blockchain projects using Ethereum, Avalanche, Polygon, and Binance.\n• Developed NFT smart contracts based on ERC721, ERC721A, and ERC1155 standards.\n• Created utility tokens using the ERC-20 standard for various projects.\n• Proficiently estimated project timelines and demonstrated leadership in team management."
       },
       {
         "company": "Rain Infotech",
         "title": "Blockchain Developer",
         "years": "Dec 2020 - Mar 2021",
-        "description": "I explored and learned about blockchain here. Learned core blockchain concepts, bitcoin blockchain, ethereum blockchain and solidity."
+        "description": "• Researched and analyzed blockchain platforms like Ethereum and Hyperledger to determine the best technology for achieving objectives.\n• Developed smart contracts and decentralized applications to enhance transparency and security in financial transactions.\n• Collaborated with cross-functional teams to implement blockchain solutions, resulting in increased efficiency and cost savings."
       },
       {
         "company": "1Rivet",
         "title": "Machine Learning Intern",
         "years": "Dec 2019 - May 2020",
-        "description": "Learned Agile Methodology, Design Patterns, automation using python, ML Libraries and Algorithms and Completed project Sentiment Analysis."
+        "description": "• Conducted sentiment analysis as part of internship and final year university project at 1Rivet.\n• Developed proficiency in Python and machine learning techniques.\n• Completed assessments, projects, and certification by 1Rivet in sentiment analysis."
       },
       {
         "company": "Getspace",
@@ -86,14 +92,29 @@
         "company": "Grofers",
         "title": "Station Manager.",
         "years": "Aug 2015 - Aug 2017",
-        "description": "As a station manager in Grofers by daily responsibility was directing, optimizing and coordinating full order cycle and goal setting, workflow, staffing,  and keep track of quality, delivery times and transport costs."
+        "description": "• Managed last-mile delivery operations at a dispatch center, ensuring timely deliveries based on item destination and delivery timelines.\n• Supervised and monitored dispatch workers to ensure smooth daily operations.\n• Coordinated with multiple dispatch centers to ensure efficient collaboration and streamlined delivery processes.\n• Handled cash management, accounts, and prepared comprehensive delivery reports."
       }
     ],
     "skills": [
       {
         "name": "Blockchain",
-        "description":"A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.",
+        "description":"is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.",
         "image": "blockchain_color.png"
+      },
+      {
+        "name": "Ethereum",
+        "description":"is a decentralized computing platform that allows developers to create and deploy applications and smart contracts.",
+        "image": "ethereum.svg"
+      },
+      {
+        "name": "Hyperledger fabric",
+        "description":"is open-source blockchain framework that's used to build enterprise-grade applications and industry strategies.",
+        "image": "hyperledger-fabric.svg"
+      },
+      {
+        "name": "Solidity",
+        "description":"Solidity is a statically-typed curly-braces programming language designed for developing smart contracts that run on Ethereum.",
+        "image": "solidity.svg"
       },
       {
         "name": "Git",
@@ -103,13 +124,13 @@
       {
         "name": "Python",
         "description":"A interpreted High-Level Language. Used python to build and train machine learning models.",
-        "image": "Python-logo.svg"
+        "image": "python.svg"
       },
       {
         "name": "Heroku",
         "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
-        "image": "heroku.png"
-      }
+          "image": "heroku.png"
+        }
     ]
   },
   "portfolio": {
