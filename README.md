@@ -2,6 +2,9 @@
 
 ![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
+## Latest Portfolio Screenshot
+![Portfolio Screenshot](portfolio-screenshot.jpeg?raw=true "Portfolio Website Screenshot")
+
 ## <a href="https://www.deepakbhavsar.codes/">LIVE DEMO</a>
 
 #### Techologies used:
