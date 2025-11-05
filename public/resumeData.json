@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Deepak Bhavsar",
-    "occupation": "Blockchain Engineer",
-    "description": "A Developer by Day and Tutor by Night",
+    "occupation": "GenAI & Blockchain Developer",
+    "description": "AI-Powered Solutions Engineer & Blockchain Expert",
     "image": "IG_Deepak.jpg",
-    "bio": "I am an engineer with an entrepreneurial spirit and a passion for coding. I pursued my first development internship to kick off my career as a WordPress and Android developer by Getspace. Then I got an opportunity to work as a Machine Learning Intern in 1Rivet. Now, I am working as a Blochchain Developer.",
+    "bio": "With nearly 6 years of diverse experience, I excel in tackling business challenges through the development of AI-based applications. I leverage advanced techniques to craft innovative solutions, driving efficiency and growth across various domains. Skilled in fine-tuning models, prompt engineering, and AI-driven automation to enhance business intelligence. Passionate about building scalable AI applications, deploying models, and integrating AI with cloud services to drive innovation and efficiency.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "deepakbhavsar43@gmail.com",
     "address": {
@@ -42,45 +42,45 @@
     ]
   },
   "resume": {
-    "skillmessage": "I am always interested in playing around with new technologies  but these are the ones that have really won me over",
+    "skillmessage": "With nearly 6 years of experience in AI and Blockchain, these are the core technologies I specialize in for building enterprise-grade solutions",
     "education": [
       {
         "school": "Uka Tarsadia University",
-        "degree": "Bachelor in Computer Engineering",
+        "degree": "B.Tech in Computer Engineering",
         "graduated": "2017 - 2020",
-        "description": "Here I took my Bachelor of Computer Engineering, It was here that I discovered my passion for Machine Learning and Data Science and found that I have a knack for understanding complex algorithms."
+        "description": "Completed Bachelor of Technology in Computer Engineering, focusing on software development, algorithms, and emerging technologies. Developed expertise in programming, data structures, and gained foundational knowledge in AI/ML and blockchain technologies."
       },
       {
         "school": "Gujarat Technological University",
         "degree": "Diploma in Computer Engineering",
         "graduated": "2012 - 2015",
-        "description": "Here I took my Diploma in Computer Engineering and achieved a much more thorough education in the underlying theory, concepts. Here I developed my skill in programming languages like C and Java and also got some hands-on experience in computer maintenance while helping the computer technicians."
+        "description": "Completed Diploma in Computer Engineering with focus on core computer science concepts. Developed programming skills in C and Java, gained hands-on experience in computer hardware and software systems."
       }
     ],
     "work": [
       {
         "company": "Zensar Technologies",
-        "title": "Software Engineer - Blockchain Expert",
-        "years": "June 2022 - present",
-        "description": "• Implemented HyperledgerFabric for credit card transaction settlement proof of concept, reducing settlement time by 99%.\n• Collaborated with team members to problem solve and optimize transaction settlement process.\n• Developed and tested solutions to ensure efficient and secure credit card transactions.\n• Utilized skills in HyperledgerFabric and problem-solving to drive successful project outcomes."
+        "title": "Software Engineer",
+        "years": "Jun 2022 - Present",
+        "description": "Lead Blockchain & GenAI initiatives at ZenLabs, delivering enterprise-ready solutions for finance, supply chain, HR, and identity verification. Designed scalable blockchain network architectures and LLM-driven AI tools for enterprise adoption. Key projects include Synthetic Data Generation, Data Explorer (NLQ → SQL), Metadata Enrichment Tool, Virtual Assistant, HR Chatbot, and Blockchain-Based Supply Chain Management."
       },
       {
-        "company": "Lapits",
-        "title": "Solidity Developer",
-        "years": "April 2021 - June 2022",
-        "description": "• Collaborated with clients in the requirements design phase for blockchain projects using Ethereum, Avalanche, Polygon, and Binance.\n• Developed NFT smart contracts based on ERC721, ERC721A, and ERC1155 standards.\n• Created utility tokens using the ERC-20 standard for various projects.\n• Proficiently estimated project timelines and demonstrated leadership in team management."
+        "company": "Lapits Technologies",
+        "title": "Blockchain Developer",
+        "years": "Apr 2021 - Jun 2022",
+        "description": "Designed and developed NFT marketplaces and DeFi applications across Ethereum, Avalanche, Polygon, and Binance Smart Chain. Built smart contracts (ERC-20, ERC-721, ERC-721A, ERC-1155) for NFTs and utility tokens. Conducted security audits using Slither and other tools to identify vulnerabilities."
       },
       {
         "company": "Rain Infotech",
         "title": "Blockchain Developer",
         "years": "Dec 2020 - Mar 2021",
-        "description": "• Researched and analyzed blockchain platforms like Ethereum and Hyperledger to determine the best technology for achieving objectives.\n• Developed smart contracts and decentralized applications to enhance transparency and security in financial transactions.\n• Collaborated with cross-functional teams to implement blockchain solutions, resulting in increased efficiency and cost savings."
+        "description": "Researched and developed Solidity smart contracts for decentralized applications. Worked with Coinbase Rosetta SDK to make an altcoin compatible with Coinbase. Supported R&D for blockchain solutions in fintech and tokenization use cases."
       },
       {
         "company": "1Rivet",
-        "title": "Machine Learning Intern",
+        "title": "Machine Learning Engineer Intern",
         "years": "Dec 2019 - May 2020",
-        "description": "• Conducted sentiment analysis as part of internship and final year university project at 1Rivet.\n• Developed proficiency in Python and machine learning techniques.\n• Completed assessments, projects, and certification by 1Rivet in sentiment analysis."
+        "description": "Built a sentiment analysis model for social media datasets using Python and ML frameworks. Designed classification pipelines to improve accuracy in sentiment detection."
       },
       {
         "company": "Getspace",
@@ -97,8 +97,13 @@
     ],
     "skills": [
       {
+        "name": "Generative AI",
+        "description":"Expert in LLMs, RAG, Prompt Engineering using Azure OpenAI (GPT-4, GPT-4o-mini), Hugging Face transformers, and building AI-powered applications for enterprise solutions.",
+        "image": "genai.png"
+      },
+      {
         "name": "Blockchain",
-        "description":"is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.",
+        "description":"Extensive experience in smart contract development, DeFi, NFTs (ERC721, ERC721A, ERC1155), Hyperledger Fabric, and building decentralized applications across multiple EVM chains.",
         "image": "blockchain_color.png"
       },
       {
@@ -119,67 +124,160 @@
       {
         "name": "Git",
         "description":"I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
-        "image": "Git.png"
+        "image": "git.png"
       },
       {
         "name": "Python",
-        "description":"A interpreted High-Level Language. Used python to build and train machine learning models.",
+        "description":"Advanced Python development for AI/ML applications, blockchain solutions, API development using FastAPI/Flask, and enterprise-grade automation systems.",
         "image": "python.svg"
       },
       {
-        "name": "Heroku",
-        "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
-          "image": "heroku.png"
-        }
+        "name": "Cloud & DevOps",
+        "description": "Proficient in Docker containerization, AWS deployment, Azure services, and building scalable cloud-native applications with modern DevOps practices.",
+        "image": "heroku.png"
+      }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Blockchain based twitter like webapp prototype",
-        "category": "blockchain, ethereum",
-        "image": "",
-        "url": ""
-      },
-      {
-        "title": "SENTIMENT ANALYSIS",
-        "category": "Machine Learning(Python, keras, NLP, streamlit, NumPy)",
+        "title": "Data Explorer - AI-Powered Natural Language to SQL",
+        "category": "Generative AI • Enterprise Solution",
+        "description": "Built an AI-powered data exploration tool that enables business users to query databases using natural language. Converts queries into SQL automatically, executes them, and generates results in both textual and visual formats with AI-driven insights.",
+        "technologies": "Python, React, SQL, OpenAI GPT-4, Prompt Engineering",
+        "achievements": "Reduced dependency on manual SQL query-writing • Improved query accuracy through LLM optimization • Accelerated business decision-making",
         "image": "sentimentanalysis-ml.png",
-        "url": "https://sentiment-analysis-nltk.herokuapp.com/"      },
+        "url": "",
+        "github": ""
+      },
       {
-        "title": "Instagram Scrapper and Object Detection",
-        "category": "Python Automation and Computer Vision (YOLO, Python)",
+        "title": "Synthetic Data Generation Platform",
+        "category": "Generative AI • Privacy Tech",
+        "description": "Developed a comprehensive synthetic data generation application to create high-quality datasets from user samples. Features multi-table generation, advanced filtering, customizable numeric ranges, and PII-safe data creation for AI/ML experimentation.",
+        "technologies": "SDV, Python, Postgres, Azure OpenAI, HMA Synthesizer",
+        "achievements": "Improved project testing speed by 40% • Enhanced privacy compliance • Reduced reliance on sensitive data",
         "image": "ipod-ml.png",
-        "url": ""
+        "url": "",
+        "github": ""
       },
       {
-        "title": "COVID-19 FACE MASK DETECTION",
-        "category": "Deep Learning",
-        "image": "with-mask.png",
-        "url": ""
+        "title": "Metadata Enrichment Tool",
+        "category": "Generative AI • Data Intelligence",
+        "description": "Built an AI-powered metadata enrichment tool to enhance dataset schemas, enabling more intelligent query generation and improved data exploration. Automatically analyzes and enriches database schemas for better usability.",
+        "technologies": "Python, Postgres, Azure OpenAI GPT-4o, Prompt Engineering",
+        "achievements": "Improved query accuracy by 60% • Reduced manual schema analysis time • Enhanced data exploration workflows",
+        "image": "sentimentanalysis-ml.png",
+        "url": "",
+        "github": ""
       },
       {
-        "title": "Robotic Arm",
-        "category": "Automation",
-        "image": "roboticarm-auto.jpg",
-        "url": ""
+        "title": "Enterprise Virtual Assistant",
+        "category": "Generative AI • Enterprise Solution",
+        "description": "Developed a virtual assistant for querying relational databases using natural language. Features automated insights, visualizations, and supports both Postgres and Oracle SQL databases for enterprise-scale data retrieval.",
+        "technologies": "Python, Postgres, Oracle SQL, Azure OpenAI, Few-shot Learning",
+        "achievements": "Enabled non-technical users to query databases without SQL expertise • Improved data accessibility • Enhanced decision-making efficiency",
+        "image": "sentimentanalysis-ml.png",
+        "url": "",
+        "github": ""
       },
       {
-        "title": "Buy with Coupon",
-        "category": "Android",
-        "image": "bwc-app.png",
-        "url": "https://play.google.com/store/apps/details?id=com.buywithcoupon.com&hl=en_IN"
+        "title": "Code Automation & Tech Modernization Suite",
+        "category": "Generative AI • Developer Tools",
+        "description": "Comprehensive solution for database migrations, code transformations, and automated documentation generation. Enables seamless transformation of source code, generates BRDs, TDDs, test cases, and supports PL/SQL modernization.",
+        "technologies": "Python (Flask), React, VS Code Extensions, Advanced Prompt Engineering",
+        "achievements": "Reduced manual documentation effort • Enhanced developer productivity • Delivered scalable modernization framework",
+        "image": "Python-logo.svg",
+        "url": "",
+        "github": ""
       },
       {
-        "title": "Onlie Traning and Placement",
-        "category": "php",
-        "image": "training&placement-site.png",
-        "url": ""
+        "title": "HR Chatbot for Candidate Selection",
+        "category": "Generative AI • HR Tech",
+        "description": "Intelligent chatbot system designed for automating candidate screening and selection processes. Integrates with HR workflows to streamline recruitment and provide data-driven candidate insights.",
+        "technologies": "Python, Natural Language Processing, Machine Learning, ChatGPT Integration",
+        "achievements": "Automated candidate screening process • Reduced recruitment time • Enhanced candidate experience",
+        "image": "",
+        "url": "",
+        "github": ""
+      },
+      {
+        "title": "Blockchain Supply Chain Management",
+        "category": "Blockchain • Enterprise Solution",
+        "description": "End-to-end supply chain traceability system on Hyperledger Fabric providing real-time product tracking across manufacturing, processing, and distribution stages. Ensures transparency, authenticity, and fraud prevention.",
+        "technologies": "Hyperledger Fabric, React, Node.js, JavaScript Chaincode, Docker",
+        "achievements": "Delivered real-time product visibility • Reduced counterfeit risks • Improved logistics efficiency through auditable records",
+        "image": "blockchain_color.png",
+        "url": "",
+        "github": ""
+      },
+      {
+        "title": "BNPL (Buy Now Pay Later) Framework",
+        "category": "Blockchain • FinTech",
+        "description": "Blockchain-based solution addressing reconciliation challenges in BNPL operations. Features automated settlement, smart contracts for syndicated loans, and regulatory compliance through blockchain immutability.",
+        "technologies": "Hyperledger Fabric, AWS, Node.js, Python, Fabric SDK",
+        "achievements": "Reduced merchant settlement time by 90% • Delivered scalable BNPL framework • Eliminated manual reconciliation bottlenecks",
+        "image": "blockchain_color.png",
+        "url": "",
+        "github": ""
+      },
+      {
+        "title": "NFT Marketplace & DeFi Applications",
+        "category": "Blockchain • Web3",
+        "description": "Comprehensive NFT marketplaces and DeFi applications across multiple blockchains. Built smart contracts for various token standards, conducted security audits, and implemented cross-chain compatibility.",
+        "technologies": "Solidity, Ethereum, Avalanche, Polygon, BSC, ERC-20/721/721A/1155, Slither",
+        "achievements": "Deployed across 4+ blockchain networks • Conducted comprehensive security audits • Enabled cross-chain NFT trading",
+        "image": "blockchain_color.png",
+        "url": "",
+        "github": ""
+      },
+      {
+        "title": "Nova Deus - Web3 E-Commerce DAO",
+        "category": "Blockchain • DAO • E-Commerce",
+        "description": "Web3 e-commerce ecosystem integrating DAO-governed marketplace where revenue funds community-driven incubation and fundraising. Features tokenized participation and decentralized decision-making.",
+        "technologies": "Solidity, Ethereum, Web3.js, Truffle, DAO Governance",
+        "achievements": "Delivered functional DAO-driven marketplace • Empowered community-led decision making • Enabled decentralized startup incubation",
+        "image": "blockchain_color.png",
+        "url": "",
+        "github": ""
+      },
+      {
+        "title": "Get Smart Token - Decentralized Education Platform",
+        "category": "Blockchain • EdTech • DAO",
+        "description": "Blockchain solution for tokenizing student debt relief and building DAO-driven educational funding system. Connects students, teachers, and funders through token-based voting mechanisms.",
+        "technologies": "Solidity, Ethereum, Snapshot.org, DAO Frameworks, ERC-20",
+        "achievements": "Delivered functional DAO voting for education funding • Launched decentralized educational initiative • Enabled community-driven funding decisions",
+        "image": "blockchain_color.png",
+        "url": "",
+        "github": ""
+      },
+      {
+        "title": "Identity Verification using SSI",
+        "category": "Blockchain • Identity • Privacy",
+        "description": "Self-Sovereign Identity (SSI) solution for secure, decentralized identity verification. Enables users to control their digital identity without relying on centralized authorities.",
+        "technologies": "Hyperledger Indy, Self-Sovereign Identity, Zero-Knowledge Proofs, Blockchain",
+        "achievements": "Enhanced privacy and security • Reduced identity verification costs • Delivered decentralized identity solution",
+        "image": "blockchain_color.png",
+        "url": "",
+        "github": ""
+      },
+      {
+        "title": "Altcoin Coinbase Integration",
+        "category": "Blockchain • Exchange Integration",
+        "description": "Made custom altcoin compatible with Coinbase exchange using Rosetta SDK. Implemented blockchain interoperability and exchange listing compatibility requirements.",
+        "technologies": "Rosetta SDK, Blockchain Integration, Exchange APIs, Cryptocurrency",
+        "achievements": "Achieved Coinbase compatibility • Gained blockchain interoperability expertise • Enabled exchange listing",
+        "image": "blockchain_color.png",
+        "url": "",
+        "github": ""
       }
     ]
   },
   "testimonials": {
     "testimonials": [
+      {
+        "text": "Deepak is an exceptional smart contract developer. In the year that he worked at Lapits Technologies, he demonstrated great initiative and a remarkable ability to learn quickly. His knowledge of NFTs and DeFi is truly impressive.",
+        "user": "Laxman Singh, 3x Founder | Blockchain Technologist, Lapits Technologies"
+      },
       {
         "text": "Deepak's enthusiasm for the profession is seen. He worked well and has shown initiative when seeking out new skills and learning opportunities.",
         "user": "Director, Getspace"

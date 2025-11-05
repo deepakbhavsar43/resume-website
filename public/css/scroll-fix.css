@@ -1,0 +1,9 @@
+/* Ensure body is always scrollable by default */
+body {
+  overflow-y: auto !important;
+}
+
+/* Only allow overflow hidden when modal is specifically open */
+body.modal-open {
+  overflow: hidden !important;
+}

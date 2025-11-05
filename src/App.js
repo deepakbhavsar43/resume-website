@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ReactGA from 'react-ga';
 import $ from 'jquery';
-import './App.css';
+import { setCSSCustomProperties } from './config/colors';
 import Header from './Components/Header';
 import Footer from './Components/Footer';
 import About from './Components/About';
@@ -18,7 +18,6 @@ class App extends Component {
       foo: 'bar',
       resumeData: {}
     };
-
   }
 
   getResumeData(){
@@ -37,6 +36,11 @@ class App extends Component {
   }
 
   componentDidMount(){
+    // Ensure body is scrollable on app load
+    document.body.style.overflow = 'auto';
+    document.documentElement.style.overflow = 'auto';
+    // Initialize centralized color system
+    setCSSCustomProperties();
     this.getResumeData();
   }
 
