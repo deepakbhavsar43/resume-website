@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import ReactGA from 'react-ga';
 import $ from 'jquery';
 import { setCSSCustomProperties } from './config/colors';
 import Header from './Components/Header';

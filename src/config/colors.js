@@ -81,7 +81,7 @@ export const getColorVariation = (color, variation = 0.1) => {
   const hex = color.replace('#', '');
   const num = parseInt(hex, 16);
   const r = Math.min(255, Math.max(0, (num >> 16) + Math.round(255 * variation)));
-  const g = Math.min(255, Math.max(0, (num >> 8 & 0x00FF) + Math.round(255 * variation)));
+  const g = Math.min(255, Math.max(0, ((num >> 8) & 0x00FF) + Math.round(255 * variation)));
   const b = Math.min(255, Math.max(0, (num & 0x0000FF) + Math.round(255 * variation)));
   return `#${((r << 16) | (g << 8) | b).toString(16).padStart(6, '0')}`;
 };
