@@ -1,11 +1,6 @@
-# Deepak Bhavsar Portfolio      
+# Deepak Bhavsar Portfolio      [![Netlify Status](https://api.netlify.com/api/v1/badges/a176b615-bab4-4d2d-b367-3d2408239f20/deploy-status)](https://app.netlify.com/sites/deepakbhavsar/deploys)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/777b95ce-89b9-4dfa-b827-e1335c1876a9/deploy-status)](https://app.netlify.com/sites/quizzical-einstein-4d0558/deploys)
-
-<!-- ![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
-
-## Latest Portfolio Screenshot -->
-![Portfolio Screenshot](portfolio-screenshot.jpeg?raw=true "Portfolio Website Screenshot")
+![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
 ## <a href="https://www.deepakbhavsar.codes/">LIVE DEMO</a>
 

@@ -1,0 +1,231 @@
+/* Modern Portfolio Card Styles - Matching Design */
+#portfolio {
+  background: #f8f9fa;
+  padding: 80px 0;
+}
+
+.portfolio-main-title {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 60px;
+  letter-spacing: 1px;
+}
+
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 30px;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Large screens - 4 cards per row */
+@media screen and (min-width: 1200px) {
+  .portfolio-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+/* Medium screens - 3 cards per row */
+@media screen and (min-width: 900px) and (max-width: 1199px) {
+  .portfolio-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Small screens - 2 cards per row */
+@media screen and (min-width: 600px) and (max-width: 899px) {
+  .portfolio-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+}
+
+/* Mobile - 1 card per row */
+@media screen and (max-width: 599px) {
+  .portfolio-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding: 0 15px;
+  }
+}
+
+.portfolio-card {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  border: 1px solid #f0f0f0;
+  min-height: 400px;
+  display: flex;
+  flex-direction: column;
+}
+
+.portfolio-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+  border-color: #e0e0e0;
+}
+
+.portfolio-card-header {
+  margin-bottom: 24px;
+}
+
+.portfolio-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0;
+}
+
+.portfolio-icon i {
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.portfolio-card-content {
+  margin-bottom: 16px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.portfolio-title {
+  font-size: 20px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+
+.portfolio-subtitle {
+  font-size: 14px;
+  color: #6b7280;
+  margin-bottom: 16px;
+  font-weight: 500;
+}
+
+.portfolio-description {
+  font-size: 14px;
+  color: #4b5563;
+  line-height: 1.5;
+  margin-bottom: 16px;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+  max-height: 63px;
+  flex-shrink: 0;
+}
+
+.portfolio-technologies {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 8px;
+  margin-top: auto;
+}
+
+.tech-tag {
+  background: #f3f4f6;
+  color: #374151;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.portfolio-card-footer {
+  margin-top: auto;
+  padding-top: 16px;
+  border-top: 1px solid #f0f0f0;
+  flex-shrink: 0;
+}
+
+.case-study-btn {
+  background: transparent;
+  border: 1px solid #d1d5db;
+  color: #374151;
+  padding: 10px 20px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  width: 100%;
+  text-align: center;
+}
+
+.case-study-btn:hover {
+  background: #f9fafb;
+  border-color: #9ca3af;
+  color: #1f2937;
+}
+
+.case-study-btn:focus,
+.case-study-btn:active {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5);
+  border-color: #3b82f6;
+}
+
+.case-study-btn:focus:not(:focus-visible) {
+  outline: none;
+  box-shadow: none;
+}
+
+/* Mobile optimizations */
+@media screen and (max-width: 599px) {
+  .portfolio-main-title {
+    font-size: 24px;
+    margin-bottom: 40px;
+  }
+  
+  .portfolio-card {
+    padding: 20px;
+    min-height: 380px;
+  }
+  
+  .portfolio-title {
+    font-size: 18px;
+    margin-bottom: 6px;
+  }
+  
+  .portfolio-subtitle {
+    font-size: 13px;
+    margin-bottom: 12px;
+  }
+  
+  .portfolio-description {
+    font-size: 13px;
+    line-height: 1.4;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    max-height: 54px;
+  }
+  
+  .case-study-btn {
+    padding: 8px 16px;
+    font-size: 13px;
+  }
+}
+
+/* Override existing portfolio styles */
+#portfolio .row {
+  max-width: none;
+}
+
+#portfolio .twelve.columns {
+  width: 100%;
+  margin: 0;
+}
