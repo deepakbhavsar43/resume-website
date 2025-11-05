@@ -16,15 +16,32 @@ class Resume extends Component {
           <p>{work.description}</p>
         </div>
       })
-      var skills = this.props.data.skills.map(function (skills) {
-        // for skills with level
-        // var className = 'bar-expand ' + skills.name.toLowerCase();
-        // return <li key={skills.name}><span style={{ width: skills.level }} className={className}></span><em>{skills.name}</em></li>
+      var skills = this.props.data.skills.map(function (skills, index) {
         var projectImage = 'images/tech/' + skills.image;
-        return <div key={skills.name} className="columns feature-item">
-          <img className='skill' alt={skills.name} src={projectImage} />
-          <h5>{skills.name}</h5>
-          <p>{skills.description}</p>
+        return <div key={skills.name} className="columns feature-item" style={{
+          display: 'flex',
+          flexDirection: 'column',
+          height: 'auto',
+          padding: '40px',
+          textAlign: 'center',
+          alignItems: 'center',
+          justifyContent: 'flex-start',
+          boxSizing: 'border-box',
+          flex: '0 0 calc(33.33% - 30px)',
+          minWidth: '300px',
+          maxWidth: '400px',
+          marginBottom: '40px',
+        }}>
+          <img className='skill' alt={skills.name} src={projectImage} style={{
+            width: '100px',
+            height: '100px',
+            objectFit: 'contain',
+            marginBottom: '20px',
+            padding: '10px',
+            borderRadius: '8px'
+          }} />
+          <h5 style={{margin: '10px 0', fontSize: '18px'}}>{skills.name}</h5>
+          <p style={{margin: '0', fontSize: '14px', lineHeight: '1.4'}}>{skills.description}</p>
         </div>
       })
     }
@@ -80,11 +97,33 @@ class Resume extends Component {
             <h1><span>Skills</span></h1>
           </div>
 
-          <div>
-            <div className="nine columns main-col"><p className="lead center">{skillmessage}</p></div>
-            <ul className="bgrid-quarters s-bgrid-thirds cf">
-              {skills}
-            </ul>
+          <div className="nine columns main-col">
+            <p className="lead">{skillmessage}</p>
+          </div>
+
+        </div>
+
+        <div style={{
+          width: '100vw',
+          position: 'relative',
+          left: '50%',
+          right: '50%',
+          marginLeft: '-50vw',
+          marginRight: '-50vw',
+          padding: '40px 40px',
+        }}>
+          <div style={{
+            display: 'flex',
+            flexWrap: 'wrap',
+            alignItems: 'stretch',
+            justifyContent: 'space-between',
+            maxWidth: '1400px',
+            margin: '0 auto',
+            listStyle: 'none',
+            overflow: 'hidden',
+            width: '100%'
+          }}>
+            {skills}
           </div>
         </div>
       </section>
